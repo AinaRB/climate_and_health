@@ -83,6 +83,13 @@ footer:
       url: "https://www.instagram.com/ainarb.art/"
 
 defaults:
+  #_about
+  - scope:
+      path: ""
+      type: about
+    values:
+      sidebar:
+        nav: "about"
   # _posts
   - scope:
       path: ""

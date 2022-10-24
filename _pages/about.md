@@ -3,6 +3,33 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## About Me
+I am PhD candidate in Environmental Epidemiology at the School of Public Health and a part-time Research Assistant in Epidemiology at the UK Small Area Health Statistics Unit (SAHSU), part of the MRC Centre for Environment and Health.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My main research project is looking at the effects of temperature changes in people’s health in Sao Paulo in Brazil, particularly focusing on identifying vulnerable population groups and neighbourhoods, information that can be used to develop and inform targeted policies. This is part of my PhD fully funded by the President Studentship Program from Imperial College London.
+
+I was trained in Biomedical Sciences at the “Universitat Autònoma de Barcelona (UAB)” and also hold a Master’s in Health Promotion by the “Universitat de Girona (UdG)”, Spain. My professional experience extends from lab-based research mainly in cancer molecular biology to epidemiological research, through my post as a Research Assistant in Epidemiology both at the Girona Cancer Registry, Spain and at SAHSU.
+
+My research interests include: (i) environmental and social health, specially related to non-communicable diseases and small area data; and (ii) co-benefits of climate change mitigation strategies, especially in relation to health and social inequalities. 
+
+Many of the studies I contribute to assess environmental hazards with potential impacts on the population health and thus, often have policy relevance. Therefore, I acknowledge the value of communicating my scientific research to a wide audience, both including policy makers and the general public.  I am actively engaged in Public Engagement Activities including general activities such as the Imperial Festival, as well as project-specific outreach activities.
+
+In relation to knowledge transfer, I am actively involved in teaching activities such as the GIS for Public Health workshop (GIS for Public Health) organized by the Environmental Exposure Group within the Department of Epidemiology and Biostatistics. I am also a member of the "Researchers’ Society MRC-PHE Environment & Health" (MRC Researcher Society) where we organize trainings and seminars on a wide variety of topics, ranging from scientific paper writing to community involvement for climate change action. 
+
+## Qualifications
+2017 - Master’s Program in Health Promotion; University of Girona (UdG), Girona, Spain.
+2016 - Bachelor’s Degree in Biomedical Sciences; “Universitat Autònoma de Barcelona” (UAB), Barcelona, Spain.
+
+
+## Professional Memberships and Activities
+Member of the International Society for Environmental Epidemiology (ISEE). Active member of the Policy, European Chapter and SNRN committee. 
+Member of the International Society for Urban Health (ISUH)
+
+
+## Expertise
+Epidemiology
+Climate Change
+Non-communicable diseases
+Environmental health epidemiology
+Social equities
+Cancer molecular biology and epidemiology

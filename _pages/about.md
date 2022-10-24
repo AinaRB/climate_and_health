@@ -28,7 +28,7 @@ Member of the International Society for Urban Health (ISUH)
 ## Expertise
 Epidemiology
 Climate Change
-Non-communicable diseases
+Urban Health
 Environmental health epidemiology
+Non-communicable diseases
 Social equities
-Cancer molecular biology and epidemiology

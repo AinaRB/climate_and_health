@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-## About Me
 I am PhD candidate in Environmental Epidemiology at the School of Public Health and a part-time Research Assistant in Epidemiology at the UK Small Area Health Statistics Unit (SAHSU), part of the MRC Centre for Environment and Health.
 
 My main research project is looking at the effects of temperature changes in people’s health in Sao Paulo in Brazil, particularly focusing on identifying vulnerable population groups and neighbourhoods, information that can be used to develop and inform targeted policies. This is part of my PhD fully funded by the President Studentship Program from Imperial College London.

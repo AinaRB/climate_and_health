@@ -42,7 +42,7 @@ More specifically, my objectives are:
 17. 	Shi H, Xian G, Auch R, Gallo K, Zhou Q. Urban heat island and its regional impacts using remotely sensed thermal data—a review of recent developments and methodology. Land. 2021;10(8). 
 18. 	Hu K, Guo Y, Hochrainer-stigler S, Liu W, See L, Yang X, et al. Evidence for Urban – Rural Disparity in Temperature – Mortality Relationships in Province, Zhejiang. Environ Health Perspect. 2019;127(March):037001. 
 19. 	Gasparrini A, Guo Y, Hashizume M, Kinney PL, Petkova EP, Lavigne E, et al. Temporal variation in heat–mortality associations: A multicountry study. Environ Health Perspect. 2015;123(11):1200–7. 
-20. 	Gasparrini A, Guo Y, Hashizume M, Lavigne E, Tobias A, Zanobetti A, et al. Changes in Susceptibility to Heat during the Summer: A Multicountry Analysis. Am J Epidemiol. 2016;183(11):1027–36. 
+20. 	Gasparrini A, Guo Y, Hashizume M, Lavigne E, Tobias A, Zanobetti A, et al. Changes in Susceptibility to Heat during the Summer: A Multicountry Analysis. Am J Epidemiol. 2016;183(11):1027–36.  
 21. 	ECMWF. ERA5-Land [Internet]. [cited 2021 Oct 26]. Available from: https://www.ecmwf.int/en/era5-land
 22. 	Kusch E, Davy R. KrigR – A tool for downloading and statistically downscaling climate reanalysis data. arXiv:210612046. 2021; 
 23. 	Secretaria Municipal da Saúde | Prefeitura da Cidade de São Paulo. Epidemiologia e Informação [Internet]. 2014 [cited 2021 Oct 26]. Available from: https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/epidemiologia_e_informacao/

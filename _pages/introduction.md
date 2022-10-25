@@ -1,4 +1,0 @@
----
-permalink: /intro/
-title: "Introduction"
----

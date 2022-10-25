@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Climate and health in urban areas: the case study of Sao Paulo Brazil"
 author_profile: false
 classes: wide
 header:
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Learn more"
       url: /results/
-excerpt: "Climate and health in urban areas: the case study of Sao Paulo Brazil. \n Climate -  Urban health  - Social disparities"
+excerpt: "Climate -  Urban health  - Social disparities"
 ---
 
 

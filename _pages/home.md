@@ -7,7 +7,7 @@ header:
   actions:
     - label: "Learn more"
       url: /results/
-excerpt: "Climate -  Urban health  - Social disparities"
+excerpt: "Climate and health in urban areas: the case study of Sao Paulo Brazil. \n Climate -  Urban health  - Social disparities"
 ---
 
 

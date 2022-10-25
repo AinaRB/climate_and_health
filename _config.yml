@@ -97,6 +97,13 @@ defaults:
     values:
       sidebar:
         nav: "project"
+  #_contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      sidebar:
+        nav: "contact"
   # _posts
   - scope:
       path: ""

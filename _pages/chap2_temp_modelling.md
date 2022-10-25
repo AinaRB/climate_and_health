@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /chap2_temp_modelling/
 title: "Temperature modelling"
 author_profile: false
 header:
@@ -7,4 +7,4 @@ header:
 excerpt: "Modelling daily mean temperature at high spatial resolution"
 ---
 
-Page under construction
+Page under construction [temperature modelling]

@@ -1,5 +1,5 @@
 ---
-permalink: /project/
+permalink: /
 title: "Project"
 author_profile: false
 header:

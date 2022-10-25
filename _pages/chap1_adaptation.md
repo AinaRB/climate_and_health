@@ -3,8 +3,8 @@ permalink: /chap1_adaptation/
 title: "Adaptation"
 author_profile: false
 header:
-  overlay_image: /assets/images/header_saopaulo.png
+  overlay_image: /assets/images/buildings_bw.jpeg
 excerpt: "Temporal trends in the temperature health burden"
 ---
 
-Page under construction [adaptation paper]
+Page under construction

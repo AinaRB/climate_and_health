@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
 ## Background
 Among the diverse and complex hazards associated with climate change, variations in temperature are amongst the most direct. Deviations from usual temperatures cause physiological stress to the human body and consequently increased hospitalization and mortality(1). The capacity of individuals and communities to respond to temperature deviations is tightly linked to physiological, behavioural, infrastructural, and technological factors(2). 
 

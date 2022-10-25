@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /chap1_adaptation/
 title: "Adaptation"
 author_profile: false
 header:
@@ -7,4 +7,4 @@ header:
 excerpt: "Temporal trends in the temperature health burden"
 ---
 
-Page under construction
+Page under construction [adaptation paper]

@@ -90,6 +90,13 @@ defaults:
     values:
       sidebar:
         nav: "about"
+  #_project
+  - scope:
+      path: ""
+      type: project
+    values:
+      sidebar:
+        nav: "project"
   # _posts
   - scope:
       path: ""

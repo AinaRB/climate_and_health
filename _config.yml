@@ -97,20 +97,34 @@ defaults:
     values:
       sidebar:
         nav: "about"
-  #_project
+  #_results
   - scope:
       path: ""
-      type: project
+      type: results
     values:
       sidebar:
-        nav: "project"
+        nav: "results"
   #_contact
   - scope:
       path: ""
       type: contact
     values:
       sidebar:
-        nav: "contact"
+        nav: "contact"  #_results
+ #_data
+ - scope:
+      path: ""
+      type: data
+    values:
+      sidebar:
+        nav: "data"
+    #_results
+  - scope:
+      path: ""
+      type: results
+    values:
+      sidebar:
+        nav: "results"
   # _posts
   - scope:
       path: ""

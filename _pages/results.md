@@ -2,7 +2,6 @@
 permalink: /results/
 title: "The project"
 author_profile: false
-classes: wide
 header:
   overlay_image: /assets/images/panoramic_blue.jpg
 excerpt: "Main findings of our research"

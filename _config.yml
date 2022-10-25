@@ -100,10 +100,10 @@ defaults:
   #_results
   - scope:
       path: ""
-      type: home
+      type: project
     values:
       sidebar:
-        nav: "results"
+        nav: "project"
   #_contact
   - scope:
       path: ""

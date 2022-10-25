@@ -2,6 +2,7 @@
 permalink: /contact/
 title: "Contact"
 date: 2016-08-26
+author_profile: false
 last_modified_at: 2018-02-13T12:42:42-05:00
 ---
 

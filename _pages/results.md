@@ -1,6 +1,6 @@
 ---
 permalink: /results/
-title: "Results"
+title: "The project"
 author_profile: false
 header:
   overlay_image: /assets/images/panoramic_blue.jpg

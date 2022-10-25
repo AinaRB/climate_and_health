@@ -2,6 +2,8 @@
 permalink: /project/
 title: "Project"
 author_profile: false
+header:
+  image: /assets/images/header_saopaulo.png
 ---
 
 ## Background

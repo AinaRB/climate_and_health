@@ -12,7 +12,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Introduction"
     excerpt: "Climate change is modifying the temperatures we are exposed to. Here we discuss how projects like this one can help us understand what are the consequences and how can we prepare."
-    url: "#test-link"
+    url: /about/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/buildings_bw_square.jpg

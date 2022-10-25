@@ -100,7 +100,7 @@ defaults:
   #_results
   - scope:
       path: ""
-      type: results
+      type: home
     values:
       sidebar:
         nav: "results"

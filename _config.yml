@@ -110,9 +110,9 @@ defaults:
       type: contact
     values:
       sidebar:
-        nav: "contact"  #_results
- #_data
- - scope:
+        nav: "contact"  
+  #_data
+  - scope:
       path: ""
       type: data
     values:

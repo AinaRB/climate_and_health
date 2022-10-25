@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Project"
+title: "Results"
 author_profile: false
 header:
-  overlay_image: /assets/images/header_saopaulo.png
-excerpt: "Background and chapters"
+  overlay_image: /assets/images/panoramic_blue.jpg
+excerpt: "Main findings of our research"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:

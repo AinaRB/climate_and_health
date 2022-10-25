@@ -118,13 +118,6 @@ defaults:
     values:
       sidebar:
         nav: "data"
-    #_results
-  - scope:
-      path: ""
-      type: results
-    values:
-      sidebar:
-        nav: "results"
   # _posts
   - scope:
       path: ""

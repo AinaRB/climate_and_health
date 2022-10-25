@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/buildings_prespective.jpg
     title: "Chap 3: Health risk across the city"
     excerpt: "Development of a daily average temperature dataset at 500m2 spatial resolution for the municpality of Sao Paulo, Brazil. Access to code and data."
-    url: /chap2_temp_modelling/
+    url: /chap3_spatiotemporal_risk/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

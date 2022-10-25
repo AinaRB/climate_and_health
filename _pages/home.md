@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/panoramic_blue.jpg
 excerpt: "Main findings of our research"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Among the diverse and complex hazards associated with climate change, variations in temperature are amongst the most direct. Deviations from usual temperatures cause physiological stress to the human body and consequently increased hospitalization and mortality. The capacity of individuals and communities to respond to temperature deviations is tightly linked to physiological, behavioural, infrastructural, and technological factors. Understanding how these impacts change over time and space can provide vital information for stakeholders, urban planners and politicians to understand priority areas of action and prevent deaths. '
 feature_row:
   - image_path: assets/images/panoramic_square.jpg
     alt: "placeholder image 1"

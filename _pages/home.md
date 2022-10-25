@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome"
 author_profile: false
+classes: wide
 header:
   overlay_image: /assets/images/panoramic_blue.jpg
   actions:

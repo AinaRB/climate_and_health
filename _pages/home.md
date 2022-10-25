@@ -15,6 +15,7 @@ feature_row:
     url: /intro/
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/buildings_bw_square.jpg
     alt: "placeholder image 2"
     title: "Chap 1: Adaptation"
@@ -22,12 +23,14 @@ feature_row:
     url: /chap1_adaptation/
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/sunset_square.jpg
     title: "Chap 2: Temperature modelling"
     excerpt: "Development of a daily average temperature dataset at 500m2 spatial resolution for the municpality of Sao Paulo, Brazil. Access to code and data."
     url: /chap2_temp_modelling/
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row4:
   - image_path: /assets/images/buildings_prespective.jpg
     title: "Chap 3: Health risk across the city"
     excerpt: "Does everyone in the city experience the same temperature? Do everyone suffer the same way? Learn more here."
@@ -38,7 +41,13 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
 ---
 
 

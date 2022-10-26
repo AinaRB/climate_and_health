@@ -15,14 +15,17 @@ Many of the studies I contribute to assess environmental hazards with potential 
 
 In relation to knowledge transfer, I am actively involved in teaching activities such as the GIS for Public Health workshop (GIS for Public Health) organized by the Environmental Exposure Group within the Department of Epidemiology and Biostatistics. I am also a member of the "Researchers’ Society MRC-PHE Environment & Health" (MRC Researcher Society) where we organize trainings and seminars on a wide variety of topics, ranging from scientific paper writing to community involvement for climate change action. 
 
+Find my full resume [here](https://github.com/AinaRB/climate_and_health/blob/9dce18fccd5d54cae032486937eaf3d623a6dc3a/_posts/ARB_Resume_Sep2022.pdf)
+
 ## Qualifications
 2017 - Master’s Program in Health Promotion; University of Girona (UdG), Girona, Spain.
 2016 - Bachelor’s Degree in Biomedical Sciences; “Universitat Autònoma de Barcelona” (UAB), Barcelona, Spain.
 
 
 ## Professional Memberships and Activities
-Member of the International Society for Environmental Epidemiology (ISEE). Active member of the Policy, European Chapter and SNRN committee. 
-Member of the International Society for Urban Health (ISUH)
+- Intern at the Phi-lab European Space Agency (ESA) working on machine learning methods for earth observation (AI4EO)
+- Member of the International Society for Environmental Epidemiology (ISEE). Active member of the Policy, European Chapter and SNRN committee. 
+- Member of the International Society for Urban Health (ISUH)
 
 
 ## Expertise

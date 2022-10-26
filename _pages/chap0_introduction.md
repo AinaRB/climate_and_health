@@ -17,7 +17,7 @@ The spatial and temporal distribution of these factors, and their impact on the 
 ## Aims and objectives
 My PhD aims to describe the spatial and temporal patterns of the association between temperature and mortality and hospitalization in São Paulo (Brazil) between 2000 and 2018, and to identify neighbourhoods1, population groups and time periods with particularly high risk of death or hospitalization.
 More specifically, my objectives are:
-1. To describe temporal trends in the temperature-mortality association, overall and by population subgroup [Chapter 1: Adaptation](/chap1_adaptation/)
+1. To describe temporal trends in the temperature-mortality association, overall and by population subgroup [Chapter 1: Adaptation](_pages/chap1_adaptation.md)
 2. To develop a spatiotemporal model to estimate daily mean temperature at high spatial and temporal resolution.[Chapter 2: Temperature model]
 3. To explore spatial patterns in the mortality and hospitalization risk associated to daily mean temperatures.[Chapter 3: Spatiotemporal patterns of risk]
 4. To encourage my PhD results to feed into Public Health programs.

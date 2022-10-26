@@ -29,9 +29,4 @@ Find my full resume [here](https://github.com/AinaRB/climate_and_health/blob/9dc
 
 
 ## Expertise
-Epidemiology
-Climate Change
-Urban Health
-Environmental health epidemiology
-Non-communicable diseases
-Social equities
+Epidemiology;Climate Change; Urban Health; Environmental health epidemiology; Non-communicable diseases; Social equities

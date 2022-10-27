@@ -7,6 +7,15 @@ header:
 excerpt: "Temporal trends in the temperature health burden"
 ---
 
-Page under construction
+[Page under construction]
+* This is an interactive representation of the work published at the Journal of Urban Health.
+*
+## Overview
+Below a diagram of the 2 indicators of adaptation used in this paper
+<img align="center" src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" alt="Adaptation indicators">
 
-![Adapatation indicators](/assets/images/Diagram_adaptation_indicators.jpg)
+## Results
+
+## Data and Methods
+
+##Citation:

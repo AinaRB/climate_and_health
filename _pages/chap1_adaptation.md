@@ -8,3 +8,5 @@ excerpt: "Temporal trends in the temperature health burden"
 ---
 
 Page under construction
+
+![Adapatation indicators](Diagram_adaptation_indicators.jpg)

@@ -8,3 +8,9 @@ excerpt: "Access our data and code"
 ---
 Page under construction [data]
 
+## The data
+
+
+## The code
+All the code can be accessed in the respective GitHub repositories for each chapter. See my [GitHub profile webpage](https://github.com/AinaRB).
+

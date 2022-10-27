@@ -22,6 +22,9 @@ More specifically, my objectives are:
 4. To explore spatial patterns in the mortality and hospitalization risk associated to daily mean temperatures.[Chapter 3: Spatiotemporal patterns of risk](https://ainarb.github.io/climate_and_health/chap3_spatiotemporal_risk/)
 5. To encourage my PhD results to feed into Public Health programs.
 
+### The study area: São Paulo (Brazil)
+<img src=https://github.com/AinaRB/2021_RocaBarceloA_TrendsTempMort__Rcode/blob/a49f88e7677fe214bc9eec38ea64c316cfd2b71d/StudyArea.png>
+
 
 ## References
 1. WMO, WHO. Heatwaves and Health: Guidance on Warning-System Development. 2015. 114 p.

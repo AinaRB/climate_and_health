@@ -23,7 +23,7 @@ More specifically, my objectives are:
 5. To encourage my PhD results to feed into Public Health programs.
 
 ### The study area: São Paulo (Brazil)
-![image-center](/assets/images/StudyArea.png){: .align-center}
+<img align="center" src="/assets/images/StudyArea.png" alt="Study Area">
 
 ## References
 1. WMO, WHO. Heatwaves and Health: Guidance on Warning-System Development. 2015. 114 p.

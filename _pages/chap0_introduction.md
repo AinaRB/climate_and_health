@@ -24,7 +24,6 @@ More specifically, my objectives are:
 
 ### The study area: São Paulo (Brazil)
 <img align="center" src="https://AinaRB.github.io/climate_and_health/assets/images/StudyArea.png" alt="Study Area">
-<img align="center" src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" alt="Adaptation indicators">
 
 ## References
 1. WMO, WHO. Heatwaves and Health: Guidance on Warning-System Development. 2015. 114 p.

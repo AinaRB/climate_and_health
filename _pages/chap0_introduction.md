@@ -17,14 +17,17 @@ The spatial and temporal distribution of these factors, and their impact on the 
 ## Aims and objectives
 My PhD aims to describe the spatial and temporal patterns of the association between temperature and mortality and hospitalization in São Paulo (Brazil) between 2000 and 2018, and to identify neighbourhoods1, population groups and time periods with particularly high risk of death or hospitalization.
 More specifically, my objectives are:
-1. To describe temporal trends in the temperature-mortality association, overall and by population subgroup [Chapter 1: Adaptation](https://ainarb.github.io/climate_and_health/chap1_adaptation/)
-3. To develop a spatiotemporal model to estimate daily mean temperature at high spatial and temporal resolution.[Chapter 2: Temperature model](https://ainarb.github.io/climate_and_health/chap2_temp_modelling/)
-4. To explore spatial patterns in the mortality and hospitalization risk associated to daily mean temperatures.[Chapter 3: Spatiotemporal patterns of risk](https://ainarb.github.io/climate_and_health/chap3_spatiotemporal_risk/)
+1. To describe temporal trends in the temperature-mortality association, overall and by population subgroup. Refer to: [Chapter 1: Adaptation](https://ainarb.github.io/climate_and_health/chap1_adaptation/)
+3. To develop a spatiotemporal model to estimate daily mean temperature at high spatial and temporal resolution. Refer to: [Chapter 2: Temperature model](https://ainarb.github.io/climate_and_health/chap2_temp_modelling/)
+4. To explore spatial patterns in the mortality and hospitalization risk associated to daily mean temperatures. Refer to: [Chapter 3: Spatiotemporal patterns of risk](https://ainarb.github.io/climate_and_health/chap3_spatiotemporal_risk/)
 5. To encourage my PhD results to feed into Public Health programs.
 
 ### The study area: São Paulo (Brazil)
-<img src=https://github.com/AinaRB/2021_RocaBarceloA_TrendsTempMort__Rcode/blob/a49f88e7677fe214bc9eec38ea64c316cfd2b71d/StudyArea.png>
-
+<figure style="width: 80px" class="align-center">
+  <a href="/assets/images/StudyArea.png" title="Study Area" alt="The study area">
+  <img src="/assets/images/StudyArea.png" alt=""></a>
+  <figcaption>Figure 1. Map of South America. In yellow, the country of Brazil; in green the state of Sao Paulo, and in purple the municipality of Sao Paulo, our study area.</figcaption>
+</figure>
 
 ## References
 1. WMO, WHO. Heatwaves and Health: Guidance on Warning-System Development. 2015. 114 p.

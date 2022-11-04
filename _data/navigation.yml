@@ -7,10 +7,5 @@ main:
     url: /data/
   - title: "Contact us"
     url: "https://arocabar.wufoo.com/forms/contact-us/"
-    
- docs:
-  - title: Chapter 1: Adaptation
-    children:
-      - title: "Why do we care?"
-        url: /_pages/chap2_temp_modelling/
+
    

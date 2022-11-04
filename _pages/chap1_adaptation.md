@@ -5,6 +5,8 @@ author_profile: false
 header:
   overlay_image: /assets/images/buildings_bw.jpg
 excerpt: "Temporal trends in the temperature health burden"
+sidebar:
+  nav: "docs"
 ---
 
 [Page under construction]

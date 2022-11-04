@@ -11,12 +11,12 @@ docs:
   - title: Chapter 1: Adaptation
     children:
       - title: "Why do we care?"
-        url: /docs/chap1_background/
+       # url: /docs/chap1_background/
       - title: "What did we do?"
-        url: /docs/chap1_aims/
+       # url: /docs/chap1_aims/
       - title: "How did we do it?"
-        url: /docs/chap1_methods/
+       # url: /docs/chap1_methods/
       - title: "What did we find?"
-        url: /docs/chap1_results/
+       # url: /docs/chap1_results/
       - title: "And now what?"
-        url: /docs/chap1_discussion/
+       # url: /docs/chap1_discussion/

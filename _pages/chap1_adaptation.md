@@ -12,15 +12,20 @@ sidebar:
 [Page under construction]
 * This is an interactive representation of the work published at the Journal of Urban Health.
 *
-## Overview
+## What does adaptation mean?
+
+## How can we measure it?
 Below a diagram of the 2 indicators of adaptation used in this paper
 <img align="center" src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" alt="Adaptation indicators">
 
-## Results
+## What did we do?
+
+## What did we find?
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/index.html" height="800" width="1200" frameBorder="0"></iframe></center>
 
 
-## Data and Methods
+*If you want to know more about the technical details of our work please read or paper*
 
-##Citation:
+## Cite our work:
+Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7

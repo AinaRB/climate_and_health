@@ -17,7 +17,7 @@ Below a diagram of the 2 indicators of adaptation used in this paper
 <img align="center" src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" alt="Adaptation indicators">
 
 ## Results
-
+[Link to test map](https://github.com/AinaRB/climate_and_health/blob/13c66eec1df0d63c31778f5d48591b077b3fbec4/_pages/adap_interactive_plots.html)
 ## Data and Methods
 
 ##Citation:

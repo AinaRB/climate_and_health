@@ -20,7 +20,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Chap 1: Adaptation"
     excerpt: "Has the population in Sao Paulo adapted to changes in temperature? If so, has everyone in the population experienced the same levels of adaptation? Read more to get the answers."
-    url: /chap1_adaptation/
+    url: /adap_interactive_plots/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:

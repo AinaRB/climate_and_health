@@ -52,13 +52,13 @@ Located in the south-east of Brazil, near the Atlantic coast (see the image belo
 
 
 ### Measuring adaptation 
-Non-linear and lagged effects. Temperature does not have a linear effect on mortality. If you think about it this makes sense. We have just described how our bodies are adapted to the usual weather of the area we live in. Hence, we would expect that changes in the temperature that range are not associated to high mortality, because we are well-adapted. However, as temperatures differ, we would expect the mortality risk to go up. And that is exactly what happens. This translates into a U-shape or V-shape risk curve where the lowest point is within the usual temperature range of the area, and it is known and minimum mortality temperature (MMT) as it registers the minimum mortality rate. The image blow shows this type of shape between temperature (x axis) and the mortality risk (y axis).
+**Non-linear and lagged effects**. Temperature does not have a linear effect on mortality. If you think about it this makes sense. We have just described how our bodies are adapted to the usual weather of the area we live in. Hence, we would expect that changes in the temperature that range are not associated to high mortality, because we are well-adapted. However, as temperatures differ, we would expect the mortality risk to go up. And that is exactly what happens. This translates into a U-shape or V-shape risk curve where the lowest point is within the usual temperature range of the area, and it is known and minimum mortality temperature (MMT) as it registers the minimum mortality rate. The image blow shows this type of shape between temperature (x axis) and the mortality risk (y axis).
 
 In addition, a key thing to consider here is that temperature does not have an immediate impact on us but instead, we see that the effects can be delayed for several days for heat and up to two weeks for cold. This means that when we look at the mortality rate associated to the temperature registered at a given day, we need to consider several days after in our count. in statistics, this is what we called delayed effects. 
 A statistical framework that enables us to model both delayed and non-linear effects is the *distributed lag non-linear model* framework developed by Gasparrini et al. 
 
 
-Annual specific estimates. Luckily enough, this framework allows us to model annual associations by simply adding an interaction term in the formula between temperature and time. In this way, we can model the risk associated to each year and explore if it has changed or not. 
+**Annual specific estimates**. Luckily enough, this framework allows us to model annual associations by simply adding an interaction term in the formula between temperature and time. In this way, we can model the risk associated to each year and explore if it has changed or not. 
 The indicators. To monitor changes, we need to pick some indicators. In this study, we have selected changes in the MMT and changes in the risk associated to a given extreme temperature. The image below shows two time periods and early one (yellow) and a later one (purple). On the left hand-side, we see that the risk (y axis) associated to a given temperature (x axis) has decreased in period 2 with respects to period 1. This would suggest that this population has decreased the risk of death when exposed to extreme heat (right of MMT) and cold (left of MMT), indicating adaptation. On the right-hand side, we see that the MMT has shifted to the right, that is, it has increased, suggesting that this population is now better adapted to higher temperatures. 
 
 
@@ -68,21 +68,30 @@ image
 Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. 
 
 ### Describing the data
-Meteorological data. Below you can explore the temperature distribution for each year in the study period in an interactive way. Select the years you want to plot and compare their distribution. You will see that there the distributions seem to flatten in later years shifting from one unique peak to two. This suggests that there are more days with high and low temperatures in later years than early years. However, the changes are not substantial. We can observe the same if we plot it using a slightly different visualization (boxplot).
+**Meteorological data**. Below you can explore the temperature distribution for each year in the study period in an interactive way. Select the years you want to plot and compare their distribution. You will see that there the distributions seem to flatten in later years shifting from one unique peak to two. This suggests that there are more days with high and low temperatures in later years than early years. However, the changes are not substantial. We can observe the same if we plot it using a slightly different visualization (boxplot).
 
 Plot and animation histogram temperatureHere you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
 
-Mortality data. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results. 
+<iframe><img src="images/myimage.jpg" frameborder="0" height=300 width=800><figcaption>Figure. Histogram of annual temperautre between 2000 and 2018. Interactive plot.</figcaption></iframe>
+
+**Mortality data**. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results.
+
 ### Adaptation patterns
 There were 3 main findings. We will explore them in detail below:
-*The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation. * 
+**The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation.** 
 The temperature-mortality relationship in Sao Paulo varied significantly over time, confirming the dynamic nature of this association. The plots below show the cumulaive relative risk curves for each year. We can see that the risk varies every year. The tendency for all population is for the risk to extreme heat and for the minimum mortlaity temperature to increase, suggesting that population is overall more used to a higher value of temperature but responds more poorly to increases on this.
  
 Figure. Annual cumulative relative risk (cRR) associated to temperature for all non-external causes of deaths, color-coded by year. Interactive plot with select/deselect variables and zoom features enabled. 
 
 
-*There are disparities in the presence and magnitude of adaptation by population groups*
+**There are disparities in the presence and magnitude of adaptation by population groups**
 There exist disparities in the presence and magnitude of adaptation across population groups. The heat-related mortality risk went up for most groups except for males (better adapted). The cold-related mortality risk barely changed for most groups except females who seem to adapt better (decrease) 
+
+Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled. 
+
+
+**Non-climatic factors have a relevant role in adaptation**
+The changes observed seemed to be only partially coupled to changes in temperature, suggesting the presence of non-climatic adaptation drivers (e.g., use of AC, change in lifestyle and quality of live, job market shift to larger tertiary sector…)
 
 
 ## Cite our work:

@@ -9,17 +9,18 @@ sidebar:
   nav: "docs"
 ---
 
-[Page under construction] \
+[Page under construction] 
+
 # Taking the temperature of our cities: A story from Sao Paulo, Brazil
 *The work discussed below is and adaptation from our work published in the Journal of Urban Health. Refer to the paper for more information or contact the corresponding author.* 
 
 Cite as:
-Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7\
+Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7
 
 
 ## Why do we care about temperature?
 ### A bit of background
-Humans are homeotherms species. This means that for the correct functioning of our body, we need our body temperature to be within a certain range regardless of the temperature outside. For humans, this temperature is within a degree or two of 37⁰C(98.6F). If this temperature is not met, our survival is compromised.\
+Humans are homeotherms species. This means that for the correct functioning of our body, we need our body temperature to be within a certain range regardless of the temperature outside. For humans, this temperature is within a degree or two of 37⁰C(98.6F). If this temperature is not met, our survival is compromised.
 
 The question is, how do we do that? And the answer that evolution has provided us with is thermoregulation. It is a physiologic mechanism which allows our body to internally modulate its temperature. It comprises several processes that are activated when our body temperature diverts too much from the optimal one. Sweating, for example, is one such process. When our temperature increases, our body starts sweating, a form of evapotranspiration, which allows us to expel heat from the body. When our body temperature drops too much, on the other hand, we start shivering, which produces localized heat, slightly raising our body temperature. But as you can imagine, and have probably experienced several times, these processes are not enough when the deviations from the optimal temperature are too large. In those situations, external factors start playing a role. According to Hondulas and colleagues, these external or non-physiological elements can be classified in *behavioural*, *technological* or *infrastructural* depending on whether the adaption occurs thanks to changes in the behaviour patterns, technological advances, or infrastructure, respectively. In most cases, it is a combination of all the factors. 
 
@@ -55,6 +56,7 @@ Located in the south-east of Brazil, near the Atlantic coast (see the image belo
 **Non-linear and lagged effects**. Temperature does not have a linear effect on mortality. If you think about it this makes sense. We have just described how our bodies are adapted to the usual weather of the area we live in. Hence, we would expect that changes in the temperature that range are not associated to high mortality, because we are well-adapted. However, as temperatures differ, we would expect the mortality risk to go up. And that is exactly what happens. This translates into a U-shape or V-shape risk curve where the lowest point is within the usual temperature range of the area, and it is known and minimum mortality temperature (MMT) as it registers the minimum mortality rate. The image blow shows this type of shape between temperature (x axis) and the mortality risk (y axis).
 
 In addition, a key thing to consider here is that temperature does not have an immediate impact on us but instead, we see that the effects can be delayed for several days for heat and up to two weeks for cold. This means that when we look at the mortality rate associated to the temperature registered at a given day, we need to consider several days after in our count. in statistics, this is what we called delayed effects. 
+
 A statistical framework that enables us to model both delayed and non-linear effects is the *distributed lag non-linear model* framework developed by Gasparrini et al. 
 
 

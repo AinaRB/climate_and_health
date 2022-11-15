@@ -72,7 +72,7 @@ Note that all visualizations are interactive. You can zoom in and out and select
 
 Plot and animation histogram temperatureHere you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
 
-<iframe src="assets/images/adap/histo_temp.html" frameborder="0" height=300 width=800><figcaption>Figure. Histogram of annual temperautre between 2000 and 2018. Interactive plot.</figcaption></iframe>
+<iframe src="assets/images/adap/histo_temp.html" frameborder="0" height=300 width=800></iframe>
 
 **Mortality data**. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results.
 

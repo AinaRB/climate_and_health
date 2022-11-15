@@ -11,7 +11,7 @@ sidebar:
 
 [Page under construction] \
 # Taking the temperature of our cities: A story from Sao Paulo, Brazil
-*The work discussed below is and adaptation from our work published in the Journal of Urban Health. Refer to the paper for more information or contact the corresponding author.* \
+*The work discussed below is and adaptation from our work published in the Journal of Urban Health. Refer to the paper for more information or contact the corresponding author.* 
 
 Cite as:
 Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7\
@@ -26,7 +26,7 @@ The question is, how do we do that? And the answer that evolution has provided u
 ### What do we mean by adaptation?
 The examples we discussed above, depict acute responses to outdoor temperatures. But what about long term shifts in temperature? Say you grew up in Bahamas and you are moving to Helsinki, Finland. Will your body react the same way as that of someone living in Helsinki all their live? Probably your gut feeling tells you that the answer is no. And you are right. We know from several studies that people develop mechanisms that are turned to the usual temperatures they are exposed to. Which makes total sense, right? If I live in a cold place, my metabolism, behaviours, and the infrastructure I have access to, will be tuned to the needs of that specific place. I will not, for example, walk around in a swimsuit (behaviours), nor have the air conditioning on (infrastructure) and my body will for sure, not be sweating (physiological). But this is not only the case when we move country. The same happens if it is not us who move but the environment around us that changes? This is exactly what climate change is. Temperature and weather patterns have changed and will continue to change due to climate change. Not only that but our societies are constantly changing and evolving; new technology is developed, awareness about the risks and prevention options increase, access to infrastructure and facilities changes, and so on. As we have seen above, all this shape our response to temperature of our environment. This is what we call adaptation.
 
-**Adaptation.** *The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects* \
+**Adaptation.** *The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects* 
 
 ### What happens when these mechanisms fail?
 This stress can lead to a wide range of health consequences. The images below summarize some of the main health consequences of both extreme heat and cold and their main clinical manifestations. These effects are more acute and can happen earlier in people who have a lower capacity of adaptation. This can include people with a compromised thermoregulation mechanism such as the eldest, people with diabetes or babies; people with no access to the right infrastructure or technological adaptations such as people at risk of poverty, outdoor physical workers… So, it is important to pay closer attention to such groups.
@@ -72,7 +72,7 @@ Note that all visualizations are interactive. You can zoom in and out and select
 
 Plot and animation histogram temperatureHere you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
 
-<iframe frameborder="0" scrolling="no" width="130" height="198" src="assets/images/adap/histo_temp.html"> </iframe>
+<iframe frameborder="0" scrolling="no" width="130" height="198" src="assets/images/histo_temp.html"> </iframe>
 
 **Mortality data**. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results.
 

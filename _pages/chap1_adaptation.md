@@ -51,6 +51,8 @@ We collected data on all deaths occurred between 2000 and 2018 in the municipali
 ### Sao Paulo
 Located in the south-east of Brazil, near the Atlantic coast (see the image below), it is one of the seven megacities in the world, with over 11M inhabitants. Its population is expected to raise in the next years and so is temperature. Therefore, providing the right up to date information to inform public health intervention has the potential of saving a lot of lives.
 
+<center><image 
+src="https://AinaRB.github.io/climate_and_health/assets/images/StudyArea.png" height="400" width="700"></image></center>
 
 ### Measuring adaptation 
 **Non-linear and lagged effects**. Temperature does not have a linear effect on mortality. If you think about it this makes sense. We have just described how our bodies are adapted to the usual weather of the area we live in. Hence, we would expect that changes in the temperature that range are not associated to high mortality, because we are well-adapted. However, as temperatures differ, we would expect the mortality risk to go up. And that is exactly what happens. This translates into a U-shape or V-shape risk curve where the lowest point is within the usual temperature range of the area, and it is known and minimum mortality temperature (MMT) as it registers the minimum mortality rate. The image blow shows this type of shape between temperature (x axis) and the mortality risk (y axis).
@@ -63,8 +65,8 @@ A statistical framework that enables us to model both delayed and non-linear eff
 **Annual specific estimates**. Luckily enough, this framework allows us to model annual associations by simply adding an interaction term in the formula between temperature and time. In this way, we can model the risk associated to each year and explore if it has changed or not. 
 The indicators. To monitor changes, we need to pick some indicators. In this study, we have selected changes in the MMT and changes in the risk associated to a given extreme temperature. The image below shows two time periods and early one (yellow) and a later one (purple). On the left hand-side, we see that the risk (y axis) associated to a given temperature (x axis) has decreased in period 2 with respects to period 1. This would suggest that this population has decreased the risk of death when exposed to extreme heat (right of MMT) and cold (left of MMT), indicating adaptation. On the right-hand side, we see that the MMT has shifted to the right, that is, it has increased, suggesting that this population is now better adapted to higher temperatures. 
 
-
-image
+<center><image 
+src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" height="400" width="700" frameBorder="0"></image></center>
 
 ## What did we find?
 Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. 
@@ -75,9 +77,22 @@ Note that all visualizations are interactive. You can zoom in and out and select
 Plot and animation histogram temperatureHere you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/histo_temp.html" height="500" width="800" frameBorder="0"></iframe></center>
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/histo_temp.html" height="400" width="700" frameBorder="0"></iframe></center>
 
 **Mortality data**. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results.
+
+<center><iframe 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort1_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+
+<center><iframe 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort2_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+
+<center><iframe 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort3_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+
+<center><iframe 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort4_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+
 
 ### Adaptation patterns
 There were 3 main findings. We will explore them in detail below:

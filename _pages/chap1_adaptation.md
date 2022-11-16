@@ -7,6 +7,9 @@ header:
 excerpt: "Temporal trends in the temperature health burden"
 sidebar:
   nav: "docs"
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 
 [Page under construction] 

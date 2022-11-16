@@ -51,7 +51,7 @@ This stress can lead to a wide range of health consequences. The images below su
     <img src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_cold.png" height="200" width="300">
   </div>
 </div>
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Schematic diagram of the main medical manisfestations of extreme heat and cold. Adapted from Centers for Disease Control and Prevention (CDC).
 </span>
 
@@ -78,7 +78,7 @@ Located in the south-east of Brazil, near the Atlantic coast (see the image belo
 
 <center><image 
 src="https://AinaRB.github.io/climate_and_health/assets/images/StudyArea.png" height="400" width="700"></image></center>
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Map of the area under study.
 </span>
 
@@ -95,6 +95,9 @@ The indicators. To monitor changes, we need to pick some indicators. In this stu
 
 <center><image 
 src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" height="400" width="700" frameBorder="0"></image></center>
+<span style="color:gray;font-weight:200;font-size:14px">
+Figure. Diagram of the different adaptation indicators used in this study. For two imaginary time points (1, yellow and 2, purple), we represent two scenarios. On the left, the flattening in the cumulative relative risk (cRR) curve. On the right a shift of the minimum mortality temperature (MMT).
+</span>
 
 ### What did we find?
 Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. To isolate one variable, double click on it.
@@ -106,7 +109,7 @@ Plot and animation histogram temperatureHere you can see the daily mean values f
 
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/histo_temp.html" height="400" width="700" frameBorder="0"></iframe></center>
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Histograms of annual temperature for Sao Paulo between 2000 and 2018. Interactive plot.
 </span>
 
@@ -114,7 +117,7 @@ Figure. Histograms of annual temperature for Sao Paulo between 2000 and 2018. In
 
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Death counts per population group under stduy. Interactive plot.
 </span>
 
@@ -123,7 +126,7 @@ There were 3 main findings. We will explore them in detail below:
 **The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation.** 
 The temperature-mortality relationship in Sao Paulo varied significantly over time, confirming the dynamic nature of this association. The plots below show the cumulaive relative risk curves for each year. We can see that the risk varies every year. The tendency for all population is for the risk to extreme heat and for the minimum mortlaity temperature to increase, suggesting that population is overall more used to a higher value of temperature but responds more poorly to increases on this.
  
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Annual cumulative relative risk (cRR) associated to temperature for all non-external causes of deaths, color-coded by year. Interactive plot with select/deselect variables and zoom features enabled.
 </span>
 
@@ -132,11 +135,11 @@ There exist disparities in the presence and magnitude of adaptation across popul
 
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MMT_trends.html" height="500" width="800" frameBorder="0"></iframe></center>
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot*
 </span>
 
-<span style="color:gray;font-weight:200;font-size:12px">
+<span style="color:gray;font-weight:200;font-size:14px">
 Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled* 
 </span>
 

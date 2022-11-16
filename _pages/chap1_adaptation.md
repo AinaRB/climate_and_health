@@ -91,7 +91,7 @@ The indicators. To monitor changes, we need to pick some indicators. In this stu
 src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" height="400" width="700" frameBorder="0"></image></center>
 
 ## What did we find?
-Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. 
+Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. To isolate one variable, double click on it.
 
 ### Describing the data
 **Meteorological data**. Below you can explore the temperature distribution for each year in the study period in an interactive way. Select the years you want to plot and compare their distribution. You will see that there the distributions seem to flatten in later years shifting from one unique peak to two. This suggests that there are more days with high and low temperatures in later years than early years. However, the changes are not substantial. We can observe the same if we plot it using a slightly different visualization (boxplot).
@@ -119,10 +119,11 @@ Figure. Annual cumulative relative risk (cRR) associated to temperature for all 
 There exist disparities in the presence and magnitude of adaptation across population groups. The heat-related mortality risk went up for most groups except for males (better adapted). The cold-related mortality risk barely changed for most groups except females who seem to adapt better (decrease) 
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MM_trend.html" height="500" width="800" frameBorder="0"></iframe></center>
-Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot.
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MMT_trend.html" height="500" width="800" frameBorder="0"></iframe></center>
 
-Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled. 
+*Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot*
+
+*Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled* 
 
 
 **Non-climatic factors have a relevant role in adaptation**

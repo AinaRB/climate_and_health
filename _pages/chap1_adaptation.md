@@ -19,7 +19,7 @@ toc_sticky: false
 *The work discussed below is and adaptation from our work published in the Journal of Urban Health. Refer to the paper for more information or contact the corresponding author.* 
 
 **Cite as:** 
-Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7
+Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). [https://doi.org/10.1007/s11524-022-00695-7]
 
 ---
 

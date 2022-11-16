@@ -50,7 +50,9 @@ This stress can lead to a wide range of health consequences. The images below su
     <img src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_cold.png" height="200" width="300">
   </div>
 </div>
-Source: CDC
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Schematic diagram of the main medical manisfestations of extreme heat and cold. Adapted from Centers for Disease Control and Prevention (CDC).
+</span>
 
 
 ## Why is this important?
@@ -75,6 +77,9 @@ Located in the south-east of Brazil, near the Atlantic coast (see the image belo
 
 <center><image 
 src="https://AinaRB.github.io/climate_and_health/assets/images/StudyArea.png" height="400" width="700"></image></center>
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Map of the area under study.
+</span>
 
 ### Measuring adaptation 
 **Non-linear and lagged effects**. Temperature does not have a linear effect on mortality. If you think about it this makes sense. We have just described how our bodies are adapted to the usual weather of the area we live in. Hence, we would expect that changes in the temperature that range are not associated to high mortality, because we are well-adapted. However, as temperatures differ, we would expect the mortality risk to go up. And that is exactly what happens. This translates into a U-shape or V-shape risk curve where the lowest point is within the usual temperature range of the area, and it is known and minimum mortality temperature (MMT) as it registers the minimum mortality rate. The image blow shows this type of shape between temperature (x axis) and the mortality risk (y axis).
@@ -100,12 +105,17 @@ Plot and animation histogram temperatureHere you can see the daily mean values f
 
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/histo_temp.html" height="400" width="700" frameBorder="0"></iframe></center>
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Histograms of annual temperature for Sao Paulo between 2000 and 2018. Interactive plot.
+</span>
 
 **Mortality data**. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results.
 
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
-
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Death counts per population group under stduy. Interactive plot.
+</span>
 
 #### Adaptation patterns
 There were 3 main findings. We will explore them in detail below:
@@ -121,10 +131,13 @@ There exist disparities in the presence and magnitude of adaptation across popul
 
 <center><iframe 
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MMT_trends.html" height="500" width="800" frameBorder="0"></iframe></center>
-*Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot*
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot*
+</span>
 
-*Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled* 
-
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled* 
+</span>
 
 **Non-climatic factors have a relevant role in adaptation**
 The changes observed seemed to be only partially coupled to changes in temperature, suggesting the presence of non-climatic adaptation drivers (e.g., use of AC, change in lifestyle and quality of live, job market shift to larger tertiary sector…)

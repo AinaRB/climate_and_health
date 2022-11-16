@@ -36,10 +36,14 @@ human intervention may facilitate adjustment to expected climate and its effects
 ### What happens when these mechanisms fail?
 This stress can lead to a wide range of health consequences. The images below summarize some of the main health consequences of both extreme heat and cold and their main clinical manifestations. These effects are more acute and can happen earlier in people who have a lower capacity of adaptation. This can include people with a compromised thermoregulation mechanism such as the eldest, people with diabetes or babies; people with no access to the right infrastructure or technological adaptations such as people at risk of poverty, outdoor physical workers… So, it is important to pay closer attention to such groups.
    
-<center><image 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_heat.png" height="200" width="300"></image></center>
-<center><image 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_cold.png" height="200" width="300"></image></center>
+<div class="row">
+  <div class="column">
+    <img src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_heat.png" height="200" width="300">
+  </div>
+  <div class="column">
+    <img src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_cold.png" height="200" width="300">
+  </div>
+</div>
 Source: CDC
 
 

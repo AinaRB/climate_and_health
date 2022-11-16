@@ -34,7 +34,11 @@ The question is, how do we do that? And the answer that evolution has provided u
 The examples we discussed above, depict acute responses to outdoor temperatures. But what about long term shifts in temperature? Say you grew up in Bahamas and you are moving to Helsinki, Finland. Will your body react the same way as that of someone living in Helsinki all their live? Probably your gut feeling tells you that the answer is no. And you are right. We know from several studies that people develop mechanisms that are turned to the usual temperatures they are exposed to. Which makes total sense, right? If I live in a cold place, my metabolism, behaviours, and the infrastructure I have access to, will be tuned to the needs of that specific place. I will not, for example, walk around in a swimsuit (behaviours), nor have the air conditioning on (infrastructure) and my body will for sure, not be sweating (physiological). But this is not only the case when we move country. The same happens if it is not us who move but the environment around us that changes? This is exactly what climate change is. Temperature and weather patterns have changed and will continue to change due to climate change. Not only that but our societies are constantly changing and evolving; new technology is developed, awareness about the risks and prevention options increase, access to infrastructure and facilities changes, and so on. As we have seen above, all this shape our response to temperature of our environment. This is what we call adaptation.
 
 ```diff
-! Adaptation. The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects. 
+Adaptation. The process of adjustment to actual or expected 
+climate and its effects. In human systems, adaptation seeks
+o moderate or avoid harm or exploit beneficial opportunities.
+In some natural systems, human intervention may facilitate 
+adjustment to expected climate and its effects. 
 ```
 
 ### What happens when these mechanisms fail?
@@ -55,9 +59,9 @@ Source: CDC
 To protect the population, we need to know what temperatures are of risk and which population groups are at higher risk. Finally, as we have seen above, these patterns are likely to change over time as temperatures change and the underlying factors for adaptation also change. Hence, we also need to consider the dynamic nature of the association over time. This information is essential to feed in public health policies and interventions such as **Early Warning Systems (EWS)**. These are comprehensive systems that combine weather forecast information with epidemiological evidence to define when to act, who to direct the actions primarily and what actions to take. Basically, when temperatures reach values above said value, an action plan is activated. Multiple thresholds may exist to capture different levels of risk, associated to action plans of increasing magnitude and urgency. As you can imagine, the way these interventions are defined and the temperature at which they are activated is specific to each setting and population. However, regardless of the exact intervention there are two pieces of information that are essential. 
 
 ```diff
-# At what temperature do we activate these interventions?
+At what temperature do we activate these interventions?
 
-# Who are they addressed to primarily?
+Who are they addressed to primarily?
 ```
 
 To answer these two questions, we need to model the association between temperature and mortality risk for the setting of interest. Not only that but we need to make sure that what we capture represents the most up to date reality for that population. Epidemiological studies investigating how these association changes over time and by population group is vital. And this is exactly what we did.
@@ -115,7 +119,7 @@ Figure. Annual cumulative relative risk (cRR) associated to temperature for all 
 There exist disparities in the presence and magnitude of adaptation across population groups. The heat-related mortality risk went up for most groups except for males (better adapted). The cold-related mortality risk barely changed for most groups except females who seem to adapt better (decrease) 
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MM_trend.html" height="400" width="700" frameBorder="0"></iframe></center>
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MM_trend.html" height="500" width="800" frameBorder="0"></iframe></center>
 Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot.
 
 Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled. 

@@ -8,13 +8,7 @@ excerpt: "Temporal trends in the temperature health burden"
 sidebar:
   nav: "docs"
 ---
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
 [Page under construction] 
 
 # Taking the temperature of our cities: A story from Sao Paulo, Brazil

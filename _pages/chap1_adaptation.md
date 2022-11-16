@@ -24,9 +24,7 @@ Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated
 
 ## Why do we care about temperature?
 ### A bit of background
-<span style="color:green;font-weight:700;font-size:20px">
-  Humans are homeotherms species. This means that for the correct functioning of our body, we need our body temperature to be within a certain range regardless of the temperature outside. For humans, this temperature is within a degree or two of 37⁰C(98.6F). If this temperature is not met, our survival is compromised.
-</span>
+Humans are homeotherms species. This means that for the correct functioning of our body, we need our body temperature to be within a certain range regardless of the temperature outside. For humans, this temperature is within a degree or two of 37⁰C(98.6F). If this temperature is not met, our survival is compromised.
 
 The question is, how do we do that? And the answer that evolution has provided us with is thermoregulation. It is a physiologic mechanism which allows our body to internally modulate its temperature. It comprises several processes that are activated when our body temperature diverts too much from the optimal one. Sweating, for example, is one such process. When our temperature increases, our body starts sweating, a form of evapotranspiration, which allows us to expel heat from the body. When our body temperature drops too much, on the other hand, we start shivering, which produces localized heat, slightly raising our body temperature. But as you can imagine, and have probably experienced several times, these processes are not enough when the deviations from the optimal temperature are too large. In those situations, external factors start playing a role. According to Hondulas and colleagues, these external or non-physiological elements can be classified in *behavioural*, *technological* or *infrastructural* depending on whether the adaption occurs thanks to changes in the behaviour patterns, technological advances, or infrastructure, respectively. In most cases, it is a combination of all the factors. 
 
@@ -114,15 +112,15 @@ There were 3 main findings. We will explore them in detail below:
 **The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation.** 
 The temperature-mortality relationship in Sao Paulo varied significantly over time, confirming the dynamic nature of this association. The plots below show the cumulaive relative risk curves for each year. We can see that the risk varies every year. The tendency for all population is for the risk to extreme heat and for the minimum mortlaity temperature to increase, suggesting that population is overall more used to a higher value of temperature but responds more poorly to increases on this.
  
-Figure. Annual cumulative relative risk (cRR) associated to temperature for all non-external causes of deaths, color-coded by year. Interactive plot with select/deselect variables and zoom features enabled. 
-
+<span style="color:gray;font-weight:200;font-size:12px">
+Figure. Annual cumulative relative risk (cRR) associated to temperature for all non-external causes of deaths, color-coded by year. Interactive plot with select/deselect variables and zoom features enabled.
+</span>
 
 **There are disparities in the presence and magnitude of adaptation by population groups**
 There exist disparities in the presence and magnitude of adaptation across population groups. The heat-related mortality risk went up for most groups except for males (better adapted). The cold-related mortality risk barely changed for most groups except females who seem to adapt better (decrease) 
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MMT_trend.html" height="500" width="800" frameBorder="0"></iframe></center>
-
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MMT_trends.html" height="500" width="800" frameBorder="0"></iframe></center>
 *Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot*
 
 *Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled* 

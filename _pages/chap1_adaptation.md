@@ -20,10 +20,13 @@ toc_icon: "cog"
 **Cite as:** 
 Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7
 
+---
 
 ## Why do we care about temperature?
 ### A bit of background
-Humans are homeotherms species. This means that for the correct functioning of our body, we need our body temperature to be within a certain range regardless of the temperature outside. For humans, this temperature is within a degree or two of 37⁰C(98.6F). If this temperature is not met, our survival is compromised.
+<span style="color:green;font-weight:700;font-size:20px">
+  Humans are homeotherms species. This means that for the correct functioning of our body, we need our body temperature to be within a certain range regardless of the temperature outside. For humans, this temperature is within a degree or two of 37⁰C(98.6F). If this temperature is not met, our survival is compromised.
+</span>
 
 The question is, how do we do that? And the answer that evolution has provided us with is thermoregulation. It is a physiologic mechanism which allows our body to internally modulate its temperature. It comprises several processes that are activated when our body temperature diverts too much from the optimal one. Sweating, for example, is one such process. When our temperature increases, our body starts sweating, a form of evapotranspiration, which allows us to expel heat from the body. When our body temperature drops too much, on the other hand, we start shivering, which produces localized heat, slightly raising our body temperature. But as you can imagine, and have probably experienced several times, these processes are not enough when the deviations from the optimal temperature are too large. In those situations, external factors start playing a role. According to Hondulas and colleagues, these external or non-physiological elements can be classified in *behavioural*, *technological* or *infrastructural* depending on whether the adaption occurs thanks to changes in the behaviour patterns, technological advances, or infrastructure, respectively. In most cases, it is a combination of all the factors. 
 
@@ -63,6 +66,8 @@ Who are they addressed to primarily?
 
 To answer these two questions, we need to model the association between temperature and mortality risk for the setting of interest. Not only that but we need to make sure that what we capture represents the most up to date reality for that population. Epidemiological studies investigating how these association changes over time and by population group is vital. And this is exactly what we did.
 
+---
+
 ## Our study
 ### What did we do?
 We collected data on all deaths occurred between 2000 and 2018 in the municipality of Sao Paulo and daily mean temperature. We then calculated the mortality risk associated to the whole temperature spectrum for each year and measured whether there was any clear trend over time. We did this for all population and focusing on different vulnerable populations, namely by age, gender, and ethnicity.
@@ -87,10 +92,10 @@ The indicators. To monitor changes, we need to pick some indicators. In this stu
 <center><image 
 src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptation_indicators.jpg" height="400" width="700" frameBorder="0"></image></center>
 
-## What did we find?
+### What did we find?
 Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. To isolate one variable, double click on it.
 
-### Describing the data
+#### Describing the data
 **Meteorological data**. Below you can explore the temperature distribution for each year in the study period in an interactive way. Select the years you want to plot and compare their distribution. You will see that there the distributions seem to flatten in later years shifting from one unique peak to two. This suggests that there are more days with high and low temperatures in later years than early years. However, the changes are not substantial. We can observe the same if we plot it using a slightly different visualization (boxplot).
 
 Plot and animation histogram temperatureHere you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
@@ -104,7 +109,7 @@ src="https://AinaRB.github.io/climate_and_health/assets/images/adap/histo_temp.h
 src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
 
 
-### Adaptation patterns
+#### Adaptation patterns
 There were 3 main findings. We will explore them in detail below:
 **The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation.** 
 The temperature-mortality relationship in Sao Paulo varied significantly over time, confirming the dynamic nature of this association. The plots below show the cumulaive relative risk curves for each year. We can see that the risk varies every year. The tendency for all population is for the risk to extreme heat and for the minimum mortlaity temperature to increase, suggesting that population is overall more used to a higher value of temperature but responds more poorly to increases on this.
@@ -126,6 +131,7 @@ src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MMT_trend.ht
 **Non-climatic factors have a relevant role in adaptation**
 The changes observed seemed to be only partially coupled to changes in temperature, suggesting the presence of non-climatic adaptation drivers (e.g., use of AC, change in lifestyle and quality of live, job market shift to larger tertiary sector…)
 
+---
 
 ## Cite our work:
 Roca-Barceló, A., Fecht, D., Pirani, M. et al. Trends in Temperature-associated Mortality in São Paulo (Brazil) between 2000 and 2018: an Example of Disparities in Adaptation to Cold and Heat. J Urban Health (2022). https://doi.org/10.1007/s11524-022-00695-7

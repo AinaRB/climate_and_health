@@ -32,6 +32,10 @@ The examples we discussed above, depict acute responses to outdoor temperatures.
 ### What happens when these mechanisms fail?
 This stress can lead to a wide range of health consequences. The images below summarize some of the main health consequences of both extreme heat and cold and their main clinical manifestations. These effects are more acute and can happen earlier in people who have a lower capacity of adaptation. This can include people with a compromised thermoregulation mechanism such as the eldest, people with diabetes or babies; people with no access to the right infrastructure or technological adaptations such as people at risk of poverty, outdoor physical workers… So, it is important to pay closer attention to such groups.
    
+<center><image 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_heat.png" height="400" width="700"></image></center>
+<center><image 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/cdc_cold.png" height="400" width="700"></image></center>
 Source: CDC
 
 
@@ -82,16 +86,7 @@ src="https://AinaRB.github.io/climate_and_health/assets/images/adap/histo_temp.h
 **Mortality data**. The plot below shows daily death counts per population subgroup. Things to note are the clear seasonality and the long-term trends specially for some population groups. Both were included in the model to make sure they didn’t interfere our results.
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort1_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
-
-<center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort2_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
-
-<center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort3_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
-
-<center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort4_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
 
 
 ### Adaptation patterns
@@ -104,6 +99,10 @@ Figure. Annual cumulative relative risk (cRR) associated to temperature for all 
 
 **There are disparities in the presence and magnitude of adaptation by population groups**
 There exist disparities in the presence and magnitude of adaptation across population groups. The heat-related mortality risk went up for most groups except for males (better adapted). The cold-related mortality risk barely changed for most groups except females who seem to adapt better (decrease) 
+
+<center><iframe 
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/MM_trend.html" height="400" width="700" frameBorder="0"></iframe></center>
+Figure. Minimum mortality temperature for  (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those, between 2000 and 2018. Interactive plot.
 
 Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled. 
 

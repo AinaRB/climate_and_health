@@ -126,7 +126,9 @@ Figure. Death counts per population group under stduy. Interactive plot.
 
 #### Adaptation patterns
 There were 3 main findings. We will explore them in detail below:
-**The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation.** 
+
+**Finding #1: The temperature-mortality association changes over time confirming the presence of adaptation and/or maladaptation.** 
+
 The temperature-mortality relationship in São Paulo varied significantly over time, confirming the dynamic nature of this association. To see this, we will be using the plots we described above, which show the link between temperature (X axis) and therisk of dying (Y axis). The risk is given taking 1 as the reference. Therefore, a relative risk of 2 means that for that temperature, the risk of dying is double to the lowest risk of death for that population (the reference). In this plot, we shoe the risk of dying for the entire population by year (a different color for each year). One thing you will notice, is that the relationship between temperature and risk of dying follows indeed a U-shape, as we expected. You can also see that there are multiple dashed lines. These mark the lowest risk of death, and if we follow them to the X axis, they give us the temperature at which they occur, which is known as the minimum mortlaity temperature. 
 
 If we compare the shape of the different years, we can see that the risk varies, especially on the extremes. The tendency for all population is for the risk to extreme heat (right part of th plot). The risk for cold remains rather similar (left side of the plot). FInaly, the minimum mortality temperature (dashed vertical lines) increases (shifts to the right). Overall, these findings suggest that in general, if we don’t look at specific population groups, the population seems to be have got used to higher temperatures but responds poorly to extreme heat.
@@ -135,7 +137,8 @@ If we compare the shape of the different years, we can see that the risk varies,
 Figure. Risk of dying (y axis) linked to temperature (x axis) for all non-external causes of deaths and coloured by year. Interactive plot with select/deselect variables and zoom features enabled. 
 </span>
 
-**There are disparities in the presence and magnitude of adaptation by population groups**
+**Finding #2: There are disparities in the presence and magnitude of adaptation by population groups**
+
 There exist disparities in the presence and magnitude of adaptation across population groups. The heat-related mortality risk went up for most groups except for males (better adapted). The cold-related mortality risk barely changed for most groups except females who seem to adapt better (decrease) 
 
 <center><iframe 
@@ -148,7 +151,8 @@ Figure. Minimum mortality temperature for  (a–s) all non-external causes of de
 Figure. Annual cumulative relative risk (cRR) associated to extreme heat (red) and extreme cold (blue) for (a–s) all non-external causes of deaths by age, sex, ethnic groups, and combination of those. The 95% CI are shown shaded in the same colour. Interactive plot with select/deselect variables and zoom features enabled* 
 </span>
 
-**Non-climatic factors have a relevant role in adaptation**
+**Finding #3: Non-climatic factors have a relevant role in adaptation**
+
 The changes observed seemed to be only partially coupled to changes in temperature, suggesting the presence of non-climatic adaptation drivers (e.g., use of AC, change in lifestyle and quality of live, job market shift to larger tertiary sector…)
 
 ---

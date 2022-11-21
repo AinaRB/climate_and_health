@@ -10,7 +10,7 @@ sidebar:
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
-toc_sticky: false
+toc_sticky: true
 ---
 
 [Page under construction] 

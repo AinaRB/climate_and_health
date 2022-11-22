@@ -156,7 +156,7 @@ If we compare the shape of the different years, we can see that the risk varies,
 
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/mort_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/risk_overall_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
 <span style="color:gray;font-weight:200;font-size:14px">
 Figure. Risk of dying (y axis) linked to temperature (x axis) for all non-external causes of deaths and coloured by year. Interactive plot with select/deselect variables and zoom features enabled. 
 </span>

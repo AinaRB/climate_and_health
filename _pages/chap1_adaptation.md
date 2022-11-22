@@ -95,9 +95,6 @@ We can represent the association as a line where each point defines the risk of 
 
 In the figure below we see a representation of this. If you think about it, this makes sense. We have just described how our bodies are adapted to the usual weather of the area we live in. Hence, when the temperature moves around that range of comfort the risk of death is small or minimum. As temperatures move away from this comfort zone, the risk of dying goes up because our bodies and tools are not ready to cope. And that is exactly what happens. This translates into a U-shape or V-shape risk curve we saw just above, that is, it is *non-linear*.
 
-
-Image curve
-
 In addition, a key thing to consider here is that temperature does not have an immediate impact on us but instead, we see that the effects can be *delayed* for several days for heat and up to two weeks for cold. This means that when we look at the mortality rate associated to the temperature registered at a given day, we need to consider several days after as well. 
 
 A statistical framework that enables us to model both delayed and non-linear effects is the *distributed lag non-linear model (DLNM)* framework developed by Gasparrini et al. This is what we used in our study. 
@@ -133,7 +130,7 @@ Figure. Boxplot of annual temperature for São  Paulo between 2000 and 2018. The
 Below you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/meteo_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/meteo.html" height="400" width="700" frameBorder="0"></iframe></center>
 <span style="color:gray;font-weight:200;font-size:14px">
 Figure. Annual daily average of temperature, relative humidity and air pollution (PM10) in São Paulo between 2000 and 2018. Interactive plot.
 </span>

@@ -71,8 +71,7 @@ To answer these two questions, we need to model the link between temperature and
 
 ---
 
-## OVERVIEW OF OUR STUDY
-
+## Our study
 ### The aim: What did we want to know?
 We collected data on all deaths and the average daily temperature between 2000 and 2018 in the municipality of São Paulo and. We then calculated the risk of death linked to temperature for each year and measured whether there was any clear trend over time. We did this for the whole population and focusing on different vulnerable populations, namely by age, gender, and ethnicity.
 
@@ -113,7 +112,7 @@ src="https://AinaRB.github.io/climate_and_health/assets/images/Diagram_adaptatio
 Figure. Diagram of the different adaptation indicators used in this study. For two imaginary time points (1, yellow and 2, purple), we represent two scenarios. On the left, the flattening in the cumulative relative risk (cRR) curve. On the right a shift of the minimum mortality temperature (MMT).
 </span>
 
-## OUR FINDINGS
+## Our findings
 Note that all visualizations are interactive. You can zoom in and out and select different variables to be plotted by clicking on them. 
 
 #### Describing the data

@@ -133,7 +133,7 @@ Figure. Boxplot of annual temperature for São  Paulo between 2000 and 2018. The
 Below you can see the daily mean values for daily mean temperature, relative humidity, and air pollution (only large particles, PM10). The last two variables were included in the model to ensure that the relationships that we found were related to temperature only and not affected by the presence of other co-occurring factors.
 
 <center><iframe 
-src="https://AinaRB.github.io/climate_and_health/assets/images/adap/rh_pm10_temp_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
+src="https://AinaRB.github.io/climate_and_health/assets/images/adap/meteo_trends.html" height="400" width="700" frameBorder="0"></iframe></center>
 <span style="color:gray;font-weight:200;font-size:14px">
 Figure. Annual daily average of temperature, relative humidity and air pollution (PM10) in São Paulo between 2000 and 2018. Interactive plot.
 </span>

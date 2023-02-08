@@ -7,4 +7,4 @@ header:
 excerpt: "Modelling daily mean temperature at high spatial resolution"
 ---
 
-Page under construction [temperature modelling]
+Note: code and findings under embargo until the work is published

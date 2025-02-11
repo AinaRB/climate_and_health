@@ -3,9 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-I am PhD candidate in Environmental Epidemiology at the School of Public Health and a part-time Research Assistant in Epidemiology at the UK Small Area Health Statistics Unit (SAHSU), part of the MRC Centre for Environment and Health.
+I am obtained my PhD in Environmental Epidemiology from the School of Public Health at Imperial College of London, UK.
 
-My main research project is looking at the effects of temperature changes in people’s health in Sao Paulo in Brazil, particularly focusing on identifying vulnerable population groups and neighbourhoods, information that can be used to develop and inform targeted policies. This is part of my PhD fully funded by the President Studentship Program from Imperial College London. I am currently a visting researcher at the European Space Agency (ESA) Phi-lab in Frascati, Italy where I am exploring the use of earth observation data for temperature data reconstruction at high spatio-temporal resolution (https://philab.esa.int/our-people/0. I am working under the supervision of Dr Rochelle Schneider Dos Santos. 
+This website, shows the outputs of my PhD research looking at the effects of temperature changes in people’s health in Sao Paulo in Brazil, particularly focusing on identifying vulnerable population groups and neighbourhoods, information that can be used to develop and inform targeted policies. This is part of my PhD fully funded by the President Studentship Program from Imperial College London. I am currently a visting researcher at the European Space Agency (ESA) Phi-lab in Frascati, Italy where I am exploring the use of earth observation data for temperature data reconstruction at high spatio-temporal resolution (https://philab.esa.int/our-people/0. I am working under the supervision of Dr Rochelle Schneider Dos Santos. 
 
 I was trained in Biomedical Sciences at the “Universitat Autònoma de Barcelona (UAB)” and also hold a Master’s in Health Promotion by the “Universitat de Girona (UdG)”, Spain. My professional experience extends from lab-based research mainly in cancer molecular biology to epidemiological research, through my post as a Research Assistant in Epidemiology both at the Girona Cancer Registry, Spain and at SAHSU.
 
